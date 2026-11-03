@@ -28,7 +28,7 @@ I'm a full-stack software engineer passionate about building intuitive products 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,react,js,flutter,dart,redis,docker,git,github&theme=dark&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,react,js,flutter,dart,postgres,redis,docker,gcp,git,github&theme=dark&perline=7" alt="Tech Stack" />
 
 </div>
 
