@@ -51,7 +51,7 @@ A cross-platform mobile application delivering detailed mountain weather forecas
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Wancen0502&show_icons=true&hide_border=true&bg_color=0D1513&title_color=A7DCCB&text_color=D4E5DF&icon_color=FFAC68"
+    src="https://github-stats-extended.vercel.app/api?username=Wancen0502&show_icons=true&hide_border=true&bg_color=0D1513&title_color=A7DCCB&text_color=D4E5DF&icon_color=FFAC68"
     alt="Wancen's GitHub Stats"
     width="480"
   />
