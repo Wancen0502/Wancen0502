@@ -28,7 +28,7 @@ I'm a full-stack software engineer passionate about building intuitive products 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,flutter,dart,postgres,redis,docker,git,github&theme=dark&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,react,js,flutter,dart,redis,docker,git,github&theme=dark&perline=6" alt="Tech Stack" />
 
 </div>
 
@@ -38,7 +38,7 @@ I'm a full-stack software engineer passionate about building intuitive products 
 
 An AI-powered travel assistant focused on personalized itinerary planning and location discovery.
 
-`React` · `FastAPI` · `Python` · `OpenAI API`
+`React` · `Next.js` · `FastAPI` · `Python` · `OpenAI API`
 
 **Hiker's Weather**
 
