@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=278C76&center=true&vCenter=true&width=520&lines=Building+thoughtful+software;Exploring+AI+and+real-world+experiences;Turning+ideas+into+products" alt="Typing SVG" />
 
-Building thoughtful software that connects AI, people, and the world around us.
+*Building software with people in mind.*
 
 📍 Seattle, WA · Open to Software Engineering Opportunities
 
@@ -17,12 +17,12 @@ Building thoughtful software that connects AI, people, and the world around us.
 
 ### 🌿 About Me
 
-I'm a full-stack software engineer passionate about building intuitive products and reliable backend systems.
+I'm a full-stack software engineer passionate about building intuitive, user-centered products that combine thoughtful design with robust engineering.
 
-- 🔭 Building **Atlyra Labs**, exploring AI-powered travel planning and location discovery.
-- 🏔️ Previously worked on **Hiker's Weather**, a cross-platform mountain weather application.
-- 💻 Experienced in mobile development, backend APIs, and cloud services.
-- 🌱 Interested in AI applications, developer tools, and product engineering.
+- 🔭 Building Atlyra Labs, an AI-powered, map-based discovery platform for exploring places and planning meaningful journeys.
+- 🏔️ Previously worked on Hiker's Weather, a cross-platform mountain weather application designed specifically for hikers.
+- 💻 Experienced in end-to-end development of mobile and web applications, from intuitive user interfaces to scalable backend services and cloud infrastructure.
+- 🌱 Passionate about product engineering, currently exploring AI-powered products, and always open to new ideas and challenges.
 
 ### 🛠 Tech Stack
 
@@ -42,7 +42,7 @@ An AI-powered travel assistant focused on personalized itinerary planning and lo
 
 **Hiker's Weather**
 
-A cross-platform mobile application providing detailed mountain weather forecasts.
+A cross-platform mobile application delivering detailed mountain weather forecasts and personalized hiking recommendations.
 
 `Flutter` · `FastAPI` · `Redis` · `PostgreSQL`
 
