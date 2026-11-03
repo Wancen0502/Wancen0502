@@ -48,9 +48,24 @@ A cross-platform mobile application delivering detailed mountain weather forecas
 
 ---
 
+
+### 🌱 LeetCode Journey
+
+<div align="center">
+  <a href="https://leetcode.cn/u/funny-chaumiue/">
+    <img
+      src="https://leetcard.jacoblin.cool/funny-chaumiue?site=cn&theme=forest&ext=heatmap"
+      alt="LeetCode Stats"
+      width="500"
+    />
+  </a>
+</div>
+
+
 <div align="center">
 
 *Always curious. Always building.* 🌿
 
 </div>
+
 
