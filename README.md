@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Wancen Profile Banner" />
+</div>
 <div align="center">
 
 # Hi, I'm Wancen ✨
