@@ -1,15 +1,16 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="Wancen Profile Banner" />
 </div>
+
 <div align="center">
 
-# Hi, I'm Wancen ✨
+<img src="./assets/banner.svg" width="100%" alt="Wancen Profile Banner" />
+
+<br/>
 
 ### Software Engineer · Full-Stack Developer · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=278C76&center=true&vCenter=true&width=520&lines=Building+thoughtful+software;Exploring+AI+and+real-world+experiences;Turning+ideas+into+products" alt="Typing SVG" />
-
-*Building software with people in mind.*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3500&pause=1200&color=278C76&center=true&vCenter=true&width=520&lines=Building+thoughtful+software;Exploring+AI-powered+products;Turning+ideas+into+reality" alt="Typing animation" />
 
 📍 Seattle, WA · Open to Software Engineering Opportunities
 
