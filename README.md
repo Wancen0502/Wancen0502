@@ -70,6 +70,8 @@ A cross-platform mobile application delivering detailed mountain weather forecas
   </a>
 </div>
 
+---
+
 
 <div align="center">
 
